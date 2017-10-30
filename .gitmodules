@@ -1,0 +1,6 @@
+[submodule "magum"]
+	path = magum
+	url = https://github.com/ubalance-team/magum
+[submodule "Neo.GPIO"]
+	path = Neo.GPIO
+	url = https://github.com/smerkousdavid/Neo.GPIO
